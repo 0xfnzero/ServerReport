@@ -11,4 +11,5 @@
 #### 不稳定运行的机器
 1. interserver 9950X, RAM: 192G, region: ny
 2. allnodes 9950X, RAM: 128G, region: fra
+3. latitude 9254, RAM: 768G, region: ny
 
